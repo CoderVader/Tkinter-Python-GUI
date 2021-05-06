@@ -1,6 +1,6 @@
 # Tkinter is a simple GUI library used in Python.
 
-* This repository contains simple projects that make creative use of the GUI library.
+* This repository contains simple projects that make creative use of the Tkinter GUI library.
 
 
 
